@@ -5,3 +5,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka1:8761/eureka/
+
+test:
+  password: '{cipher}AQDag31AOKjl0/AXL0hjHgXSRXYukm0IjslRxNpI6jokmYeqQdrC0cH64biIzb+SWojGmnzw5dYSxBg+2MlPwo9S8OkiO+1PNehg0+wU2DkE7C2UmxojSpPBGo3yWaIyWopTEg0tqVLjAQOgsoxvAjNtV3nYR6c9T3ydeTKa8cPIniicthOqthd3iYUcLLjJimty+SJSDiqbrOb8Me6dnJ3tIn7+YS4ekebw6/CSpMis1Q/C0DQE2zJiL2E9uxL+i2foYDC2oSBP2Wch2IKq3VMcPBkTmhxEGqto1GyBypp1cMAQNsY8BMgR2iPJ+BOZsV+TFoc7PhLk4Kz/31iitkGz6VyzH8YQMUe6q3ZxmyHWAPNpOXNxFoX4lQeNcbd7Ulk='
